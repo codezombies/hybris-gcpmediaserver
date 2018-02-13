@@ -1,5 +1,5 @@
-# gcpimageserver
-hybris extension to integrate media with google cloud platform's storage
+## gcpimageserver
+gcpimageserver is a hybris extension to integrate media management with Google Cloud Platform's (GCP) cloud storage. The integration is seamless and can be configured on a folder-by-folder basis. The media can be created and can be deleted in the backoffice and the changes will reflect in the GCP's cloud storage.
 
 ### pre-requisites
 * a [google cloud platform](https://cloud.google.com/) account
@@ -16,3 +16,11 @@ media.folder.google.url.strategy=gcpMediaWebURLStrategy
 gcp.folder.google.bucket.name=codingzombies-gcp
 ~~~~
 4. you're now ready to use GCP Cloud Storage!
+
+## Screenshots
+### BackOffice
+![BackOffice](https://raw.githubusercontent.com/codezombies/gcpimageserver/master/resources/images/backoffice.png)
+
+### Homepage
+![Homepage](https://raw.githubusercontent.com/codezombies/gcpimageserver/master/resources/images/homepage.png)
+
