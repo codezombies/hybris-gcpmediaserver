@@ -1,0 +1,10 @@
+#Ant properties
+#Thu Aug 03 13:21:46 GMT 2017
+builddate=20170803 1321
+description=gcpimageserver
+group.id=de.hybris.platform
+module.name=platform-module
+name=gcpimageserver
+vendor=hybris
+version=6.5.0.0
+version.api=6.5.0
